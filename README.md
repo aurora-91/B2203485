@@ -35,5 +35,5 @@
 **6. Quản lý vận chuyển**
 - Tùy chọn giao hàng: Cung cấp các tùy chọn về hình thức giao hàng, như giao trong ngày, giao vào thời gian cụ thể, hoặc chọn ngày giao mong muốn.
 - Theo dõi giao hàng: Khách hàng có thể theo dõi trạng thái giao hàng trực tuyến để biết chính xác khi nào hoa sẽ được giao đến.
-# Tóm lại
+## Tóm lại
 Hệ thống quản lý cửa hàng hoa online là một giải pháp hiệu quả giúp cửa hàng hoa mở rộng khả năng kinh doanh trực tuyến, cải thiện quản lý và nâng cao trải nghiệm khách hàng. Với sự phát triển của thương mại điện tử, việc triển khai hệ thống này có thể mang lại nhiều lợi ích lớn cho cửa hàng, từ việc tăng doanh số đến quản lý hiệu quả hơn
